@@ -23,19 +23,22 @@
 
 > O projeto está completo e totalmente funcional.
 
-## Autor
+
+##  Autor
 <h2>Marco Antônio</h2>
 
-<p>Desenvolvedor Java</p>
+<p>Desenvolvedor Full-Stack </p>
 
 <p>
-  <a href="https://github.com/seu-github" target="_blank">
+  <a href="https://github.com/marcosynky" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/marco-antônio-developer-fullstack" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </p>
+
 
 ## 📱 Funcionalidades
 
